@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.627fe6f5.chunk.css",
+    "main.js": "/static/js/main.709f695a.chunk.js",
+    "main.js.map": "/static/js/main.709f695a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46389edc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46389edc.js.map",
+    "static/css/2.deabb8e6.chunk.css": "/static/css/2.deabb8e6.chunk.css",
+    "static/js/2.7353703b.chunk.js": "/static/js/2.7353703b.chunk.js",
+    "static/js/2.7353703b.chunk.js.map": "/static/js/2.7353703b.chunk.js.map",
+    "static/js/3.03830879.chunk.js": "/static/js/3.03830879.chunk.js",
+    "static/js/3.03830879.chunk.js.map": "/static/js/3.03830879.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.deabb8e6.chunk.css.map": "/static/css/2.deabb8e6.chunk.css.map",
+    "static/css/main.627fe6f5.chunk.css.map": "/static/css/main.627fe6f5.chunk.css.map",
+    "static/js/2.7353703b.chunk.js.LICENSE.txt": "/static/js/2.7353703b.chunk.js.LICENSE.txt",
+    "static/media/3nights-4days-golden-triangle-tour3.4586a110.webp": "/static/media/3nights-4days-golden-triangle-tour3.4586a110.webp",
+    "static/media/Chittorgarh-Fort..075948c4.jpg": "/static/media/Chittorgarh-Fort..075948c4.jpg",
+    "static/media/Folk-artist-Rann-Utsav.e17352e5.jpg": "/static/media/Folk-artist-Rann-Utsav.e17352e5.jpg",
+    "static/media/Golden-Temple-Amritsar.a98a48ae.jpg": "/static/media/Golden-Temple-Amritsar.a98a48ae.jpg",
+    "static/media/Purana-Qila-shutterstock_514508050.d3d4b978.jpg": "/static/media/Purana-Qila-shutterstock_514508050.d3d4b978.jpg",
+    "static/media/Victoria-Memorial-Kolkata.7a80d0fe.jpg": "/static/media/Victoria-Memorial-Kolkata.7a80d0fe.jpg",
+    "static/media/delhi-monument-fort-landscape-qutub-minar-wallpaper-preview.46cb975e.jpg": "/static/media/delhi-monument-fort-landscape-qutub-minar-wallpaper-preview.46cb975e.jpg",
+    "static/media/destination-hampi-ruins-vittalla-temple-stone-chariot-2.0ee2cc3d.jpg": "/static/media/destination-hampi-ruins-vittalla-temple-stone-chariot-2.0ee2cc3d.jpg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/khajuraho-temple-2.52ecb8eb.jpg": "/static/media/khajuraho-temple-2.52ecb8eb.jpg",
+    "static/media/App.css": "/static/media/logo.648b7b43.png",
+    "static/media/shutterstock_469835813-Mahabaleshwara-temple-in-Mysore.e804cf87.jpg": "/static/media/shutterstock_469835813-Mahabaleshwara-temple-in-Mysore.e804cf87.jpg",
+    "static/media/taj-mahal-4k-background-wallpaper-preview.02d66b63.jpg": "/static/media/taj-mahal-4k-background-wallpaper-preview.02d66b63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46389edc.js",
+    "static/css/2.deabb8e6.chunk.css",
+    "static/js/2.7353703b.chunk.js",
+    "static/css/main.627fe6f5.chunk.css",
+    "static/js/main.709f695a.chunk.js"
+  ]
+}

@@ -1,0 +1,19 @@
+.first{
+    height: 100%;
+    width: 100%;
+}
+.img{
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.cont{
+    float:left;
+    text-align:left;
+}
+.img1{
+    display: block;
+    margin-left: auto;
+}

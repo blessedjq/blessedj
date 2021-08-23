@@ -1,0 +1,41 @@
+.logoName{
+  color: aliceblue;
+}
+.username{
+  color: aliceblue;
+}
+
+
+  .bg {
+    
+  background-image: url("./assets/logo.png");
+  height: 100vh;
+  background-position:center ;
+  background-repeat: no-repeat;
+  
+  background-size: cover;
+  }
+  .layout{
+    float: right;
+    width: 80%;
+    height: 100%;
+    
+  }
+  .sidebar{
+    float: left;
+    width: 20%;
+  
+  }
+  .usersty{
+    margin: 0;
+    
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    margin-right: -50%;
+    transform: translate(-45%, -45%)
+  }
+  .side{
+    width: auto;
+  }
+  
